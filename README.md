@@ -1,6 +1,8 @@
 <!-- CYBERPUNK GITHUB PROFILE — VITALSYNC / DEVELOPER -->
 
 <div align="center">
+  <img src="Neon%20Skyline%20Wanderer.png" width="100%" alt="Neon cyberpunk developer banner">
+</div>
   <h1>⚡ Hey, I'm NITESH- DEV</h1>
 
   <h3>Building ideas with AI, data & code.</h3>
