@@ -1,9 +1,7 @@
 <!-- CYBERPUNK GITHUB PROFILE — VITALSYNC / DEVELOPER -->
 
 <div align="center">
-  <img src="assets/github-banner.png" width="100%" alt="Cyberpunk neon green developer banner" />
-
-  <h1>⚡ Hey, I'm YOUR_USERNAME</h1>
+  <h1>⚡ Hey, I'm NITESH- DEV</h1>
 
   <h3>Building ideas with AI, data & code.</h3>
 
