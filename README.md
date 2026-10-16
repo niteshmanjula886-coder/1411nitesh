@@ -1,138 +1,47 @@
-<!-- CYBERPUNK GITHUB PROFILE — VITALSYNC / DEVELOPER -->
-
 <div align="center">
-  <img src="Neon%20Skyline%20Wanderer.png" width="100%" alt="Neon cyberpunk developer banner">
-</div>
-  <h1>⚡ Hey, I'm NITESH- DEV</h1>
+  <img src="Neon%20Skyline%20Wanderer.png" width="100%" alt="Neon cyberpunk skyline banner">
 
+  <h1>⚡ NITESH-DEV</h1>
   <h3>Building ideas with AI, data & code.</h3>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=600&lines=BSc+AIDS+Student;Exploring+Artificial+Intelligence;Building+Android+Applications;Learning+Something+New+Every+Day" alt="Typing introduction" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=39FF88&center=true&vCenter=true&width=500&lines=Exploring+Artificial+Intelligence;Learning+New+Technologies;Building+My+Developer+Journey" alt="Animated introduction">
 
-  <p>
-    <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-    <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-    <a href="YOUR_EMAIL_LINK">Contact</a>
-  </p>
+  <p>💻 Developer in progress • 🎓 BSc AIDS Student • 🚀 Always learning</p>
 </div>
 
 ---
 
-## `> whoami`
-
-```python
-class Developer:
-    def __init__(self):
-        self.role = "BSc AIDS Student"
-        self.interests = [
-            "Artificial Intelligence",
-            "Data Science",
-            "Android Development",
-            "Problem Solving"
-        ]
-        self.current_focus = [
-            "Building college projects",
-            "Learning new technologies",
-            "Improving my development skills"
-        ]
-
-    def motto(self):
-        return "Build. Learn. Improve. Repeat."
-```
-
-- 🎓 Studying BSc Artificial Intelligence and Data Science.
-- 🤖 Exploring AI, machine learning and data-driven applications.
-- 📱 Developing ideas for Android applications.
-- 🧪 Learning through practical projects and experimentation.
-- 🎯 Working toward becoming a better developer, one project at a time.
-
-## `> tech_stack`
-
-**Languages & development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css,mysql&theme=dark" alt="Programming technologies" />
-</p>
-
-**Tools & platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,firebase,figma,linux&theme=dark" alt="Development tools" />
-</p>
-
-*These icons represent technologies and tools I work with or explore. My proficiency varies by technology.*
-
-## `> featured_projects`
-
-### 🟢 VitalSync — AI Wellness App
-
-An AI-powered health and wellness application concept focused on presenting personal wellness information and helpful insights.
-
-- **Focus:** Android UI/UX, health dashboards and AI-assisted wellness summaries.
-- **Technologies:** Add the technologies actually used in your implementation.
-- **Repository:** [View Project](YOUR_VITALSYNC_REPOSITORY_URL)
-
-### ⚡ Electricity Consumption Analysis & Prediction
-
-A data mining project exploring electricity consumption analysis and prediction using Linear Regression.
-
-- **Focus:** Data analysis, visualization and predictive modeling.
-- **Technologies:** Python, Pandas, visualization tools and scikit-learn, where used.
-- **Repository:** [View Project](YOUR_ELECTRICITY_PROJECT_URL)
-
-### 🎓 University Admission Prediction
-
-A project concept for exploring admission predictions using student-related input data and machine learning.
-
-- **Focus:** Data processing, prediction and result visualization.
-- **Technologies:** Add the tools actually used in your implementation.
-- **Repository:** [View Project](YOUR_ADMISSION_PROJECT_URL)
-
-> Replace project links with real repositories. Label unfinished projects as *In Progress* and include screenshots or demos when available.
-
-## `> github_stats`
-
-<h2 align="center">⚡ GITHUB // ANALYTICS</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=niteshmanjula886-coder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=FFFFFF" alt="GitHub statistics" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshmanjula886-coder&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=FFFFFF" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=niteshmanjula886-coder&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" alt="Contribution streak" />
-</div>
-
-## `> current_mission`
+<h2 align="center">⌨️ SYSTEM.IDENTITY</h2>
 
 ```text
-[+] Learn by building
-[+] Improve my coding fundamentals
-[+] Create useful projects
-[+] Explore AI and mobile development
-[ ] Contribute to open source
-[ ] Build a stronger developer portfolio
+╔══════════════════════════════════════╗
+║ USER      : NITESH-DEV               ║
+║ STATUS    : LEARNING & BUILDING      ║
+║ INTERESTS : AI • CODE • TECHNOLOGY   ║
+║ DIRECTIVE : BUILD. LEARN. REPEAT.    ║
+╚══════════════════════════════════════╝
 ```
 
-## `> connect`
-
-I'm interested in learning, building projects and connecting with other developers.
-
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 🌐 Portfolio: [Explore my work](YOUR_PORTFOLIO_URL)
-- 📧 Email: [Get in touch](YOUR_EMAIL_LINK)
-
----
+<h2 align="center">🟢 TECH ARSENAL</h2>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,html,css,js,mysql,git,github,vscode&theme=dark" alt="Technology icons">
+</div>
 
-  <h3>「 Build better. Think smarter. Keep growing. 」</h3>
+<h2 align="center">📡 GITHUB TELEMETRY</h2>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B25,50:00A85A,100:39FF88&height=100&section=footer" width="100%" alt="Neon green footer" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niteshmanjula886-coder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=FFFFFF" width="49%" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshmanjula886-coder&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=FFFFFF" width="49%" alt="Language statistics">
+</div>
 
-  <sub>Designed in the terminal. Built with curiosity. ⚡</sub>
+<h2 align="center">📈 CONTRIBUTION MATRIX</h2>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niteshmanjula886-coder&bg_color=0D1117&color=39FF88&line=39FF88&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=niteshmanjula886-coder&style=flat-square&color=39FF88&label=PROFILE+VISITORS" alt="Profile visitors">
+  <h3>BUILD • BREAK • LEARN • REPEAT</h3>
 </div>
