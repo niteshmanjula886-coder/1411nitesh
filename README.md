@@ -94,14 +94,16 @@ A project concept for exploring admission predictions using student-related inpu
 
 ## `> github_stats`
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=C9D1D9" alt="GitHub statistics" />
+<h2 align="center">⚡ GITHUB // ANALYTICS</h2>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=C9D1D9" alt="Most used languages" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=niteshmanjula886-coder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=FFFFFF" alt="GitHub statistics" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshmanjula886-coder&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF88&text_color=FFFFFF" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" alt="GitHub contribution streak" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=niteshmanjula886-coder&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" alt="Contribution streak" />
 </div>
 
 ## `> current_mission`
